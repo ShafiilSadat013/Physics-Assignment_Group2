@@ -2,6 +2,8 @@
 #include<math.h>
 int main()
 {
+    /*here lmd means lemda which is the wavelength
+        and tht means theta which is the angle*/
     double lmd,tht,d,m;
     printf("Enter wavelength : ");
     scanf("%lf",&lmd);
